@@ -1,4 +1,4 @@
-__author__ = 'Chris Hong hongkefeng@weidian.com'
+__author__ = 'Chris Hong '
 
 
 # introduce of this tool
